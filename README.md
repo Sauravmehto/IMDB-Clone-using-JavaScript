@@ -8,7 +8,7 @@ A mini IMDB clone app in which we can search movies based on OMDB API, with sear
 Clicking on a particular movie card opens a new movie page for more info.
 On clicking on the favourite button, we can add a movie to the favourite list which is using local storage to store movies.  
 
-### Hosted link: [IMDB-clone](https://rahul4019.github.io/IMDB-clone/)
+### Hosted link: [IMDB-clone](https://curious-mochi-8c8348.netlify.app)
 
 ## Tools used:
 * HTML
